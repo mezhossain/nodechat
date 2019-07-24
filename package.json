@@ -1,0 +1,19 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "Simple chat application using nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mezhossain/nodechat.git"
+  },
+  "author": "Mehraz Hossain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mezhossain/nodechat/issues"
+  },
+  "homepage": "https://github.com/mezhossain/nodechat#readme"
+}
